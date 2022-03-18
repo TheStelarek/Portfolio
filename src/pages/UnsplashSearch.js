@@ -22,6 +22,13 @@ export default () => {
           </div>
         </div>
         <div className="Technology">
+          <a
+            target="_blank"
+            className="cta-btn cta-btn--hero"
+            href="https://unsplash-search-jade.vercel.app"
+          >
+            Live
+          </a>
           <div className="Title">Used Technologies</div>
           <div className="Technologies">
             <div className="btn">
