@@ -14,7 +14,7 @@ export default () => {
           <Link to="/">
             <a className="cta-btn cta-btn--hero backBtn">Back</a>
           </Link>
-          <div className="Title">Unsplash search</div>
+          <div className="Title">Hickari Conference Manager</div>
           <div className="Description">
             A simple web application that allows you to create, sign up for, and manage conferences.
             It also has a login and registration system, with administrator and presentation creator
